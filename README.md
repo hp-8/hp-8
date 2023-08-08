@@ -1,6 +1,6 @@
 # 👋 Greetings, Tech Voyager! 🚀
 
-I'm a Full-Stack Developer on a mission to create captivating online experiences. With ReactJS as my wand and server-side wizardry in my arsenal, I seamlessly dance between front-end finesse and back-end brilliance. If pixels were my canvas and databases my palette, I'd be the modern-day da Vinci of code. 🎨
+I'm a Full-Stack Developer on a mission to create captivating online experiences. With ReactJS as my wand and server-side wizardry in my arsenal, I seamlessly dance between front-end finesse and back-end brilliance. If pixels were my canvas and databases my palette, I'd be the modern-day Da Vinci of code. 🎨
 
 ## 🌐 Journey Unfolded
 
