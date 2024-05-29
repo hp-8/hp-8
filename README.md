@@ -1,4 +1,4 @@
-# 👋 Greetings, Tech Enthusiasts! 🚀
+# 👋 Helllooo, Fellow Coders! 🚀
 
 I'm a Full-Stack Developer with a focus on creating engaging web experiences. I'm proficient in ReactJS for the frontend and adept at server-side development. I'm passionate about translating ideas into digital solutions.
 
