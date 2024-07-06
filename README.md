@@ -8,14 +8,14 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="hp-8" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently working as a Full Stack Developer.
 
 - 📫 How to reach me **patadiaharsh.8@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Food🍕, Music🎵 and Travel✈️ are my reasons to live.
 
 <br>
 
@@ -33,6 +33,10 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-original-wordmark.svg'
+      widtht="40" height="40"/> </a> <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer">
+>
+    
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
