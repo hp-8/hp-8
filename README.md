@@ -6,28 +6,37 @@
 
 Building scalable software that solves real problems and generates real revenue.
 
-[![Website](https://img.shields.io/badge/Website-harshpatadia.space-blue?style=flat-square)](https://harshpatadia.space)
-[![X](https://img.shields.io/badge/X-@patadiaharsh8-black?style=flat-square&logo=x)](https://x.com/patadiaharsh8)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harsh--patadia-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harsh-patadia/)
-[![Email](https://img.shields.io/badge/Email-patadiaharsh.8@gmail.com-red?style=flat-square&logo=gmail)](mailto:patadiaharsh.8@gmail.com)
+<a href="https://harshpatadia.space">
+  <img src="https://img.shields.io/badge/Website-harshpatadia.space-2563eb?style=flat-square" />
+</a>
+<a href="https://x.com/patadiaharsh8">
+  <img src="https://img.shields.io/badge/X-@patadiaharsh8-000000?style=flat-square&logo=x" />
+</a>
+<a href="https://www.linkedin.com/in/harsh-patadia/">
+  <img src="https://img.shields.io/badge/LinkedIn-harsh--patadia-0A66C2?style=flat-square&logo=linkedin" />
+</a>
+<a href="mailto:patadiaharsh.8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-patadiaharsh.8@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🎯 What I Do
+## What I Do
 
-I design and build **production-grade systems** that scale cleanly, feel intentional, and survive beyond early hype. My work sits at the intersection of **product thinking** and **technical execution**—delivering features that users love and systems that engineering teams trust.
+I design and build **production-grade systems** at the intersection of product thinking and engineering execution.  
+My work focuses on scalability, performance, and long-term maintainability under real user load.
 
-**Core Focus Areas:**
-- 🚀 Full-stack web applications with modern frameworks
-- 🤖 AI-powered systems with agent workflows and LLM integration
-- 🏗️ Multi-tenant SaaS platforms with complex business logic
-- ⚡ High-performance APIs serving real-time data at scale
+**Focus Areas**
+- Full stack web applications with modern frameworks
+- AI powered systems with agent workflows and LLM integration
+- Multi tenant SaaS platforms with complex business logic
+- High performance APIs serving real time data
 
 ---
 
-## 💼 Why Work With Me
+## Why Work With Me
 
 ```
 ✓ I ship revenue-generating products, not just features
@@ -37,85 +46,65 @@ I design and build **production-grade systems** that scale cleanly, feel intenti
 ```
 
 **Philosophy:**  
-Product before patterns. Systems before features. Clarity before cleverness.
+Product before patterns.  
+Systems before features.  
+Clarity before cleverness.
 
 ---
 
-## 🛠️ Technical Stack
-
-<div align="center">
+## Technical Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js" />
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 
-### AI & Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Infrastructure & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-
-</div>
+### AI & Infrastructure
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
 
 ---
 
-## 🎨 What Sets My Work Apart
+## What Sets My Work Apart
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏗️ Architecture That Scales
-- Multi-tenant systems with clean data isolation
-- Event-driven architectures for real-time features
-- Microservices with proper boundaries
-- Database optimization for high-traffic scenarios
+<strong>Scalable Architecture</strong><br />
+Multi tenant systems, clean isolation, event driven workflows, and database optimization.
 
 </td>
 <td width="50%">
 
-### 🎯 Product-Minded Engineering
-- Features designed with user behavior in mind
-- Performance budgets from day one
-- Analytics and monitoring built in, not bolted on
-- Iteration cycles measured in days, not months
+<strong>Product Minded Engineering</strong><br />
+User driven features, performance budgets, analytics first decisions.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🤖 AI Integration Done Right
-- Agent workflows with proper error handling
-- Context management for long-running conversations
-- Cost optimization through smart caching
-- Fallback strategies when models fail
+<strong>AI Integration</strong><br />
+Agent workflows, context management, cost control, and fallback strategies.
 
 </td>
 <td width="50%">
 
-### 💼 Business Value Delivery
-- Revenue-generating feature development
-- Payment integration and subscription logic
-- User onboarding flows that convert
-- Analytics dashboards for data-driven decisions
+<strong>Business Impact</strong><br />
+Payments, subscriptions, onboarding flows, and revenue aligned delivery.
 
 </td>
 </tr>
@@ -123,32 +112,25 @@ Product before patterns. Systems before features. Clarity before cleverness.
 
 ---
 
-## 📊 Track Record
+## Track Record
 
-```javascript
-const achievements = {
-  productsShipped: "Multiple revenue-generating SaaS platforms",
-  userImpact: "Systems serving thousands of active users",
-  codeQuality: "Production code that teams maintain confidently",
-  deliverySpeed: "Features shipped on tight deadlines without compromising quality"
-};
-```
+```js
+const signal = {
+  products: "Revenue generating SaaS systems",
+  scale: "Thousands of active users",
+  ownership: "End to end system responsibility",
+  delivery: "Fast execution without technical debt"
+}
 
-**Real-World Impact:**
-- Built and deployed AI-powered systems used in production
-- Architected multi-tenant platforms handling complex business logic
-- Implemented payment flows processing real transactions
-- Shipped features that directly contributed to revenue growth
+<div align="center">
 
----
-
-## 🚀 Let's Build Something
+## Let's Build Something
 
 I'm available for:
-- 💻 **Full-stack development** for web applications
-- 🤖 **AI system integration** and agent workflows
-- 🏗️ **Technical architecture** and system design
-- 🎯 **Product development** from concept to launch
+- **Full-stack development** for web applications
+- **AI system integration** and agent workflows
+- **Technical architecture** and system design
+- **Product development** from concept to launch
 
 **Best fit for projects that need:**
 - Clear technical leadership with product sensibility
@@ -164,7 +146,7 @@ I'm available for:
 
 Looking for an engineer who thinks like a product builder?
 
-**[Schedule a call](https://harshpatadia.space)** · **[Email me](mailto:patadiaharsh.8@gmail.com)** · **[View LinkedIn](https://www.linkedin.com/in/harsh-patadia/)**
+**[Schedule a call](https://harshpatadia.space)** · **[Email me](mailto:patadiaharsh.8@gmail.com)** · **[View LinkedIn](https://www.linkedin.com/in/harsh-patadia/)** · **[X](https://x.com/patadiaharsh8)**
 
 ---
 
