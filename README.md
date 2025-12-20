@@ -1,74 +1,117 @@
-<h1 align="center">Harsh Patadia</h1>
-<p align="center">
-Product focused Full Stack Engineer building scalable web and AI systems
+<div align="center">
+
+<h1>Harsh Patadia</h1>
+
+<p>
+Full Stack Engineer · Product Systems · AI
 </p>
 
-<p align="center">
-<a href="https://harshpatadia.space">Website</a> ·
-<a href="https://x.com/patadiaharsh8">X</a> ·
-<a href="https://www.linkedin.com/in/harsh-patadia/">LinkedIn</a> ·
+<p>
+<a href="https://harshpatadia.space">Website</a>
+&nbsp;·&nbsp;
+<a href="https://x.com/patadiaharsh8">X</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/harsh-patadia/">LinkedIn</a>
+&nbsp;·&nbsp;
 <a href="mailto:patadiaharsh.8@gmail.com">Email</a>
 </p>
 
+</div>
+
 <br />
+
+<div align="center">
+<em>
+I design and build software systems that scale cleanly,<br />
+feel intentional, and survive beyond early hype.
+</em>
+</div>
+
+<br /><br />
 
 <hr />
 
-<h3>Overview</h3>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>What I Build</h3>
 
 <p>
-I work on end to end software systems with a strong emphasis on product thinking,
-clean architecture, and long term maintainability.
+End to end web and AI systems with a strong product mindset.
 <br /><br />
-My focus is building things that feel intentional, scale cleanly, and survive beyond MVP hype.
+I care about architecture, performance, and clarity,
+especially when systems grow under real user load.
 </p>
 
-<br />
+<p>
+My work often involves multi-tenant platforms,
+agent workflows, and low-latency APIs.
+</p>
 
-<h3>Core Stack</h3>
+</td>
 
-<table>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>React, Next.js, TypeScript, Tailwind, Framer Motion</td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>Node.js, Express, Prisma, MongoDB, PostgreSQL, Redis</td>
-  </tr>
-  <tr>
-    <td><strong>Infra</strong></td>
-    <td>Supabase, Git, Playwright</td>
-  </tr>
+<td width="50%" valign="top">
+
+<h3>How I Work</h3>
+
+<p>
+Product before patterns.<br />
+Systems before features.<br />
+Clarity before cleverness.
+</p>
+
+<p>
+I optimize for long-term velocity, not short-term hacks.
+</p>
+
+</td>
+</tr>
 </table>
 
 <br />
 
 <hr />
 
-<h3>Activity</h3>
+<h3 align="center">Stack I Trust</h3>
+
+<div align="center">
+
+<p>
+<strong>Frontend</strong><br />
+React · Next.js · TypeScript · Framer Motion · GSAP · Three.js
+</p>
+
+<p>
+<strong>Backend</strong><br />
+Node.js · Express · REST · GraphQL · PostgreSQL · MongoDB · Redis
+</p>
+
+<p>
+<strong>Infra</strong><br />
+AWS · Docker · CI/CD · Supabase · Stripe · Playwright
+</p>
+
+</div>
+
+<br />
+
+<hr />
+
+<h3 align="center">Signals</h3>
 
 <p align="center">
-<img
-  src="https://github-readme-stats.vercel.app/api?username=hp-8&show_icons=true&hide_border=true&title_color=6b7280&icon_color=6b7280&text_color=374151"
-  height="165"
-/>
+I have built revenue-generating products.<br />
+I have shipped AI-powered systems used by real users.<br />
+I have owned features end-to-end, from idea to production.
 </p>
 
 <br />
 
 <hr />
 
-<h3>Principles</h3>
-
-<p>
-Clarity over cleverness.<br />
-Systems over hacks.<br />
-Products that age well beat trends that spike fast.
-</p>
-
-<br />
-
-<p align="center">
-<sub>harshpatadia.space</sub>
-</p>
+<div align="center">
+<sub>
+Building in public · Thinking in systems · Shipping deliberately
+</sub>
+</div>
