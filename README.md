@@ -78,48 +78,10 @@ Product before patterns. Systems before features. Clarity before cleverness.
 
 ## What Sets My Work Apart
 
-<table>
-<tr>
-<td width="50%">
-
 ### Architecture That Scales
-- Multi-tenant systems with clean data isolation
-- Event-driven architectures for real-time features
-- Microservices with proper boundaries
-- Database optimization for high-traffic scenarios
-
-</td>
-<td width="50%">
-
 ### Product-Minded Engineering
-- Features designed with user behavior in mind
-- Performance budgets from day one
-- Analytics and monitoring built in, not bolted on
-- Iteration cycles measured in days, not months
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### AI Integration Done Right
-- Agent workflows with proper error handling
-- Context management for long-running conversations
-- Cost optimization through smart caching
-- Fallback strategies when models fail
-
-</td>
-<td width="50%">
-
 ### Business Value Delivery
-- Revenue-generating feature development
-- Payment integration and subscription logic
-- User onboarding flows that convert
-- Analytics dashboards for data-driven decisions
-
-</td>
-</tr>
-</table>
 
 ---
 
