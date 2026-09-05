@@ -6,7 +6,6 @@
 
 Building scalable software that solves real problems and generates real revenue.
 
-[![Website](https://img.shields.io/badge/Website-harshpatadia.space-blue?style=flat-square)](https://harshpatadia.space)
 [![X](https://img.shields.io/badge/X-@patadiaharsh8-black?style=flat-square&logo=x)](https://x.com/patadiaharsh8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harsh--patadia-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harsh-patadia/)
 [![Email](https://img.shields.io/badge/Email-patadiaharsh.8@gmail.com-red?style=flat-square&logo=gmail)](mailto:patadiaharsh.8@gmail.com)
